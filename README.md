@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Raymundo and I'am at BS in Computer Science. :computer:
+
 <!--
 **RayMendezG/RayMendezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
